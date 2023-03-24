@@ -1,6 +1,6 @@
 # Todo Application
 
-![Screenshot](https://raw.githubusercontent.com/harunguter/todo-app/main/screenshot.png)
+![image](https://user-images.githubusercontent.com/76135381/227446865-0e7092e6-36a2-4efc-8de5-f8b72f091790.png)
 
 ## Run app
 ```
